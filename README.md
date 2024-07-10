@@ -1,6 +1,6 @@
-# ESTUDO SOBRE O MODELO DE FITZHUGH–NAGUMO E COMPARAÇÃO DE MÉTODOS NUMÉRICOS.
+# Estudo sobre o modelo de Fitzhugh–Nagumo e comparação de métodos numéricos.
 
-Esse documento serve para apresentar as animações feitas para ...
+Esse documento tem o objetivo de apresentar as animações feitas para para o resumo expandido "ESTUDO SOBRE O MODELO DE FITZHUGH–NAGUMO E COMPARAÇÃO DE MÉTODOS NUMÉRICOS" escrito para o  IX Encontro de Iniciação Científica e Pós-graduação do Instituto Federal de São Paulo - Campus São Paulo (EICPOG).
 
 ## Animações para bifurcação de Hopf
 
